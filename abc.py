@@ -1,0 +1,1 @@
+print("I have a car and lot a money")
